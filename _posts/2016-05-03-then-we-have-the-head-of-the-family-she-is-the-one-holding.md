@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Then we have the head of the Family. She is the one holding it all together, making it all possible.'
-datePublished: '2016-05-03T06:08:41.068Z'
-dateModified: '2016-05-03T06:08:00.227Z'
+datePublished: '2016-05-03T12:19:35.127Z'
+dateModified: '2016-05-03T06:32:07.827Z'
+title: ''
+author: []
+sourcePath: _posts/2016-05-03-then-we-have-the-head-of-the-family-she-is-the-one-holding.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-title: ''
-author: []
 starred: false
-sourcePath: _posts/2016-05-03-then-we-have-the-head-of-the-family-she-is-the-one-holding.md
-published: true
 url: then-we-have-the-head-of-the-family-she-is-the-one-holding/index.html
 _type: Article
 
