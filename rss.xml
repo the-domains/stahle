@@ -4,8 +4,15 @@
         <description><![CDATA[19 Minutes North]]></description>
         <link>https://thegrid.ai/stahle/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 03 May 2016 12:17:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2016 12:19:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/stahle/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Presentation Head]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/da69251e-0cf6-4d53-94b5-2a7b7dc7a639.jpg">]]></description>
+            <link>https://thegrid.ai/stahle/then-we-have-the-head-of-the-family-she-is-the-one-holding/index.html</link>
+            <guid isPermaLink="false">c00768e9-8633-4207-b737-d89e370fea05</guid>
+            <pubDate>Tue, 03 May 2016 12:19:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Presentation]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ab0dfd63-30a0-4356-b13d-417a1210b3c5.jpg">]]></description>
@@ -26,13 +33,6 @@
             <link>https://thegrid.ai/stahle/c3fe9be4-9725-4c21-8063-edf45a6454ac/index.html</link>
             <guid isPermaLink="false">c3fe9be4-9725-4c21-8063-edf45a6454ac</guid>
             <pubDate>Tue, 03 May 2016 06:29:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/da69251e-0cf6-4d53-94b5-2a7b7dc7a639.jpg">]]></description>
-            <link>https://thegrid.ai/stahle/then-we-have-the-head-of-the-family-she-is-the-one-holding/index.html</link>
-            <guid isPermaLink="false">c00768e9-8633-4207-b737-d89e370fea05</guid>
-            <pubDate>Tue, 03 May 2016 06:08:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
