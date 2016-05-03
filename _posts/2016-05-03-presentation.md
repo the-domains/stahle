@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "First some presentations of this family living 19 minutes North of the Equator. Let's start with the boss. Me."
-datePublished: '2016-05-03T16:17:51.352Z'
-dateModified: '2016-05-03T16:17:49.899Z'
+datePublished: '2016-05-03T18:31:58.071Z'
+dateModified: '2016-05-03T18:31:30.429Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-03-presentation.md
@@ -17,7 +17,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
+starred: true
 url: presentation/index.html
 _type: Article
 
