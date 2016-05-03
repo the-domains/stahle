@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Welcome to "19 minutes north", the Stahle family website! '
-datePublished: '2016-05-03T13:28:11.000Z'
-dateModified: '2016-05-03T13:27:02.609Z'
+datePublished: '2016-05-03T15:56:28.972Z'
+dateModified: '2016-05-03T13:28:18.855Z'
 title: ''
 author:
   - name: ''
