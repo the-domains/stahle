@@ -4,11 +4,13 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'Finally, Junior, dressed up as a true Frenchman '
-datePublished: '2016-05-03T06:11:51.514Z'
-dateModified: '2016-05-03T06:11:24.623Z'
+description: 'Finally, Junior, dressed up as a true Frenchman'
+datePublished: '2016-05-03T06:27:25.658Z'
+dateModified: '2016-05-03T06:11:56.853Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-03-finally-junior-dressed-up-as-a-true-frenchman.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-03-finally-junior-dressed-up-as-a-true-frenchman.md
-published: true
 url: finally-junior-dressed-up-as-a-true-frenchman/index.html
 _type: Article
 
