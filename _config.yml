@@ -1,4 +1,4 @@
-name: stahle
+name: Stahle
 favicon: null
 layout_spectrum: 0.6450557948555797
 typography_spectrum: 0.32817880366928875
@@ -22,8 +22,8 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.09656926011666656
-  lightness: 0.024136200081557035
-  saturation: 0.9849129687063396
+  brandStrength: 0.1875
+  lightness: 0.875
+  saturation: 1
   rhythmicContrast: 0.9169347221031785
 purpose: []
