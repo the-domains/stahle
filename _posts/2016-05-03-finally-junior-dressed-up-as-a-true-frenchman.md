@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Victor, 9, dressed up as a true Frenchman (Bien entendu!) during International day at school. '
-datePublished: '2016-05-13T16:17:00.470Z'
-dateModified: '2016-05-13T16:13:15.199Z'
+datePublished: '2016-05-13T16:17:32.032Z'
+dateModified: '2016-05-13T16:17:06.738Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-03-finally-junior-dressed-up-as-a-true-frenchman.md
