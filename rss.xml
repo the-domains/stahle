@@ -4,7 +4,7 @@
         <description><![CDATA[19 Minutes North]]></description>
         <link>https://thegrid.ai/stahle/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 15 May 2016 14:05:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 May 2016 14:06:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/stahle/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -26,13 +26,6 @@
             <link>https://thegrid.ai/stahle/who-are-we/index.html</link>
             <guid isPermaLink="false">f0cf4741-c6fe-4318-9f14-d4e4c5923b83</guid>
             <pubDate>Sun, 15 May 2016 13:53:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Presentation Junior]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f48d87f-d6e4-48ca-8986-61b2093efe32.jpg">]]></description>
-            <link>https://thegrid.ai/stahle/finally-junior-dressed-up-as-a-true-frenchman/index.html</link>
-            <guid isPermaLink="false">b570cfdb-a93f-4338-b5c4-df0ab26f6349</guid>
-            <pubDate>Fri, 13 May 2016 16:59:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
