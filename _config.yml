@@ -1,6 +1,6 @@
 name: Stahle
 favicon: null
-layout_spectrum: 0.11153
+layout_spectrum: 0.76566
 typography_spectrum: 0.15474
 title: 19 Minutes North
 cta:
@@ -23,7 +23,7 @@ color:
     - '#54dcec'
     - '#7e9895'
   brandStrength: 0.375
-  lightness: 0.6875
+  lightness: 0.5
   saturation: 0.25
   rhythmicContrast: 0.5
 purpose: []
