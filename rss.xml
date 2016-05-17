@@ -4,7 +4,7 @@
         <description><![CDATA[19 Minutes North]]></description>
         <link>https://thegrid.ai/stahle/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 17 May 2016 15:44:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 May 2016 15:58:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/stahle/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/stahle/welcome-to-19-minutes-north-the-website-of-the-stahle-fam/index.html</link>
             <guid isPermaLink="false">9ef23690-73b5-4bde-a246-b503bc1f7318</guid>
             <pubDate>Mon, 16 May 2016 12:10:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Discover Kampala, Capital of Uganda, our home for a few years </p>]]></description>
+            <link>https://thegrid.ai/stahle/discover-kampala-capital-of-uganda-our-home-for-a-few-year/index.html</link>
+            <guid isPermaLink="false">b8bbda90-e9e4-45d5-8af4-a5967a4cde0f</guid>
+            <pubDate>Tue, 17 May 2016 15:58:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -26,13 +33,6 @@
             <link>https://thegrid.ai/stahle/who-are-we/index.html</link>
             <guid isPermaLink="false">f0cf4741-c6fe-4318-9f14-d4e4c5923b83</guid>
             <pubDate>Mon, 16 May 2016 14:25:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Discover Kampala, Capital of Uganda, our home for a few years </p>]]></description>
-            <link>https://thegrid.ai/stahle/discover-kampala-capital-of-uganda-our-home-for-a-few-year/index.html</link>
-            <guid isPermaLink="false">b8bbda90-e9e4-45d5-8af4-a5967a4cde0f</guid>
-            <pubDate>Sun, 15 May 2016 14:04:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
