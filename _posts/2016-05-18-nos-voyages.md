@@ -6,8 +6,8 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: Les Safaris
-datePublished: '2016-05-19T07:02:36.261Z'
-dateModified: '2016-05-19T07:02:27.843Z'
+datePublished: '2016-05-19T14:56:19.150Z'
+dateModified: '2016-05-19T14:55:02.041Z'
 title: Who are we?
 author: []
 sourcePath: _posts/2016-05-18-nos-voyages.md
@@ -17,7 +17,7 @@ starred: true
 _type: Blurb
 
 ---
-## Who are we?
+## [Who are we?][0]
 
 ## Nos Voyages...
 
@@ -42,3 +42,5 @@ _type: Blurb
 **L'école & les en****f****ants**
 
 **Dans Kampala**
+
+[0]: null
