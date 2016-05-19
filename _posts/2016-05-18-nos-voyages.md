@@ -6,8 +6,8 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: Les Safaris
-datePublished: '2016-05-19T14:56:19.150Z'
-dateModified: '2016-05-19T14:55:02.041Z'
+datePublished: '2016-05-19T14:57:31.039Z'
+dateModified: '2016-05-19T14:57:26.127Z'
 title: Who are we?
 author: []
 sourcePath: _posts/2016-05-18-nos-voyages.md
@@ -43,4 +43,4 @@ _type: Blurb
 
 **Dans Kampala**
 
-[0]: null
+[0]: https://thegrid.ai/stahle/who-are-we/
