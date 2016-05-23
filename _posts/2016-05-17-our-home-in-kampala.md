@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'Our House in Kampala At the top of the greenest hill of Kampala, overlooking the city ...'
-datePublished: '2016-05-23T18:08:18.967Z'
-dateModified: '2016-05-23T18:08:14.863Z'
+description: 'Notre maison surplombant la ville, perchée sur la colline la plus verte de Kampala, Kololo.'
+datePublished: '2016-05-23T19:03:47.583Z'
+dateModified: '2016-05-23T19:01:30.514Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-17-our-home-in-kampala.md
@@ -17,15 +17,17 @@ url: our-home-in-kampala/index.html
 _type: Blurb
 
 ---
-Our House in Kampala At the top of the greenest hill of Kampala, overlooking the city ...
+* Our House in Kampala At the top of the greenest hill of Kampala, overlooking the city ...
 
 _Notre maison surplombant la ville, perchée sur la colline la plus verte de Kampala, Kololo._
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c90fd7c-6a78-4c90-a9d8-c00ffba8c59f.jpg)
 
+Our terrace
+
 _Notre terrasse..._
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a4b7762-9949-44c8-98e5-4dad05cde992.jpg)
 
-Nice exotic fruits in the garden..
+* Nice exotic fruits in the garden..
 
 _Le jardin rempli de fruits exotiques._
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/11b881f9-31b6-47a1-a0a6-638dfd43676d.jpg)
