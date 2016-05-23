@@ -4,10 +4,10 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'Notre maison surplombant la ville, perchée sur la colline la plus verte de Kampala, Kololo.'
-datePublished: '2016-05-23T19:03:47.583Z'
-dateModified: '2016-05-23T19:01:30.514Z'
-title: ''
+description: 'Our House in Kampala At the top of the greenest hill of Kampala, overlooking the city ...'
+datePublished: '2016-05-23T19:04:25.457Z'
+dateModified: '2016-05-23T19:04:02.426Z'
+title: A glimpse in our life
 author: []
 sourcePath: _posts/2016-05-17-our-home-in-kampala.md
 authors: []
@@ -17,7 +17,9 @@ url: our-home-in-kampala/index.html
 _type: Blurb
 
 ---
-* Our House in Kampala At the top of the greenest hill of Kampala, overlooking the city ...
+## A glimpse in our life
+
+Our House in Kampala At the top of the greenest hill of Kampala, overlooking the city ...
 
 _Notre maison surplombant la ville, perchée sur la colline la plus verte de Kampala, Kololo._
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c90fd7c-6a78-4c90-a9d8-c00ffba8c59f.jpg)
