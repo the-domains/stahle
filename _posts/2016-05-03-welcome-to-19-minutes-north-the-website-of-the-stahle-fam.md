@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-29T14:11:20.358Z'
+datePublished: '2016-08-29T14:11:20.397Z'
 sourcePath: _posts/2016-05-03-welcome-to-19-minutes-north-the-website-of-the-stahle-fam.md
 inFeed: true
 isBasedOnUrl: null
