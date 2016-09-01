@@ -1,19 +1,16 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: null
-inLanguage: null
-keywords: []
-description: ''
-datePublished: '2016-05-23T18:39:31.882Z'
-dateModified: '2016-05-23T18:39:30.587Z'
+id: 99c1476c-9222-457c-82e0-fc7b8b655930
+dateModified: '2016-08-30T14:25:12.418Z'
 title: Who are we?
+datePublished: '2016-08-30T14:25:13.287Z'
 author: []
-sourcePath: _posts/2016-05-18-nos-voyages.md
-authors: []
-publisher: null
+hasPage: true
+description: ''
+publisher: {}
+via: {}
 starred: false
+sourcePath: _posts/2016-05-18-nos-voyages.md
+url: who-are-we/index.html
 _type: Blurb
 
 ---
