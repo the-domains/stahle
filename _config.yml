@@ -25,14 +25,14 @@ cta:
   bucket: null
   version: null
 navigation:
+  - name: About us (les présentations)
+    id: f0cf4741-c6fe-4318-9f14-d4e4c5923b83
+    type: content
   - name: A glimpse in our life (notre vie à Kampala)
     id: 1702bee7-fdc0-413a-9f5e-54cb14a29c64
     type: content
   - name: Our Trips (nos voyages)...
     id: 1102c25b-cba4-4df6-a00a-42b86e0d0cea
-    type: content
-  - name: About us (les présentations)
-    id: f0cf4741-c6fe-4318-9f14-d4e4c5923b83
     type: content
 favicon: null
 title: 19 Minutes North
