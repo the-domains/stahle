@@ -25,9 +25,6 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: About us (qui sommes nous)
-    id: 99c1476c-9222-457c-82e0-fc7b8b655930
-    type: content
   - name: A glimpse in our life (notre vie à Kampala)
     id: 1702bee7-fdc0-413a-9f5e-54cb14a29c64
     type: content
