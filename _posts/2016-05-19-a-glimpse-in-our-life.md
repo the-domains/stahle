@@ -1,20 +1,21 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-23T18:12:06.791Z'
-dateModified: '2016-05-23T18:11:40.762Z'
+datePublished: '2016-08-30T14:24:18.228Z'
+dateModified: '2016-08-30T14:24:17.056Z'
 title: A glimpse in Our life
 author: []
 sourcePath: _posts/2016-05-19-a-glimpse-in-our-life.md
 authors: []
-publisher: null
+publisher: {}
+via: {}
 starred: false
-_type: Blurb
+url: a-glimpse-in-our-life/index.html
+_type: Article
 
 ---
 ## [A glimpse in Our life][0]
