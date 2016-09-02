@@ -34,6 +34,9 @@ navigation:
   - name: Our Trips / Nos voyages...
     id: 1102c25b-cba4-4df6-a00a-42b86e0d0cea
     type: content
+  - name: Discover Kampala / A la découverte de Kampala
+    id: b8bbda90-e9e4-45d5-8af4-a5967a4cde0f
+    type: content
 favicon: null
 title: 19 Minutes North
 purpose: []
