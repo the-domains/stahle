@@ -19,7 +19,7 @@ analytics:
   google: null
   facebook: null
   twitter: null
-name: Stahle
+name: 19 Minutes North
 cta:
   domain: null
   bucket: null
@@ -39,4 +39,5 @@ navigation:
     type: content
 favicon: null
 title: 19 Minutes North
+description: Bienvenue sur le site web de la famille Stahle!
 purpose: []
