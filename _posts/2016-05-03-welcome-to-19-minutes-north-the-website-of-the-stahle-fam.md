@@ -1,18 +1,16 @@
 ---
-id: 9ef23690-73b5-4bde-a246-b503bc1f7318
-dateModified: '2016-08-30T14:19:50.366Z'
-title: 'Welcome to "19 minutes north", the website of the Stahle family.'
-datePublished: '2016-08-30T14:19:51.434Z'
-author: []
-description: Bienvenue sur le site web de la Famille Stahle!
-publisher: {}
-via: {}
-starred: true
+datePublished: '2016-08-31T05:25:52.888Z'
 sourcePath: _posts/2016-05-03-welcome-to-19-minutes-north-the-website-of-the-stahle-fam.md
 inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+author: []
+via: {}
+dateModified: '2016-08-31T05:25:51.569Z'
+title: 'Welcome to "19 minutes north", the website of the Stahle family.'
+id: 9ef23690-73b5-4bde-a246-b503bc1f7318
+publisher: {}
+description: Bienvenue sur le site web de la Famille Stahle!
+starred: true
+_type: Blurb
 
 ---
 ### **Welcome to "19 minutes north", the website of the Stahle family.**
