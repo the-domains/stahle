@@ -25,7 +25,7 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: About us (les présentations!)
+  - name: About us / Les présentations!
     id: f0cf4741-c6fe-4318-9f14-d4e4c5923b83
     type: content
   - name: A glimpse in our Life / Notre vie à Kampala
