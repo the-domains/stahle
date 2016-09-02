@@ -31,7 +31,7 @@ navigation:
   - name: A glimpse in our Life / Notre vie à Kampala
     id: 1d4f9ba7-912d-4929-b7e3-e55e2203e861
     type: content
-  - name: Our Trips (nos voyages)...
+  - name: Our Trips / Nos voyages...
     id: 1102c25b-cba4-4df6-a00a-42b86e0d0cea
     type: content
 favicon: null
