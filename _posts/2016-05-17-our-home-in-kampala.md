@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-31T09:55:45.307Z'
+datePublished: '2016-09-01T04:47:46.299Z'
 sourcePath: _posts/2016-05-17-our-home-in-kampala.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-31T09:55:44.178Z'
+dateModified: '2016-09-01T04:47:45.018Z'
 title: A glimpse in our Life / Notre vie à Kampala
 id: 1d4f9ba7-912d-4929-b7e3-e55e2203e861
 publisher: {}
@@ -25,7 +25,7 @@ _Notre maison surplombant la ville, perchée sur la colline la plus verte de Kam
 
 **Our house and the garden** / _La maison et le jardin, sans oublier la piscine_
 
-Our terrace / _Notre terrasse..._
+**Our terrace** / _Notre terrasse..._
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a4b7762-9949-44c8-98e5-4dad05cde992.jpg)
 
 * Yummy exotic fruits in the garden.. / _Le jardin rempli de fruits exotiques._
