@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-08-31T07:12:52.260Z'
+datePublished: '2016-09-01T05:25:58.574Z'
 sourcePath: >-
   _posts/2016-05-15-discover-kampala-capital-of-uganda-our-home-for-a-few-year.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-31T07:12:51.153Z'
-title: ''
+dateModified: '2016-09-01T05:25:57.511Z'
+title: Discover Kampala
 id: b8bbda90-e9e4-45d5-8af4-a5967a4cde0f
 publisher: {}
 description: 'Discover Kampala, Capital of Uganda, our home for a few years'
@@ -15,6 +15,8 @@ url: discover-kampala-capital-of-uganda-our-home-for-a-few-year/index.html
 _type: Blurb
 
 ---
+## **Discover Kampala**
+
 **Discover Kampala,** Capital of Uganda, our home for a few years
 
 _A la découverte de Kampala, la capitale de l'Ouganda, notre maison pour quelques années._
